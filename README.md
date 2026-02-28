@@ -149,7 +149,7 @@ Discord Login ──▶ License Key ──▶ Driver Map ──▶ Download Buil
 
 ```
 Cheat          C++20  ·  DirectX 9  ·  Custom ImGui
-Memory         Kernel driver (DigiMapper)
+Memory         Kernel driver 
 Overlay        Transparent DX9 window + ImGui render
 Loader         Electron + Node.js
 Auth           Node.js + Discord OAuth2
