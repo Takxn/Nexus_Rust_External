@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="ChatGPT Image 28. Feb. 2026, 18_00_29.png" width="160" alt="Nexus+">
+<img src="logo.png" width="160" alt="Nexus+">
 
 <br><br>
 
