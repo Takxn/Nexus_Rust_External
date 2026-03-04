@@ -183,7 +183,16 @@ Config         JSON save/load (3 slots)
 <br>
 
 ---
-<img width="1406" height="979" alt="image" src="https://github.com/user-attachments/assets/95d1b9a2-0d7c-4556-bea9-8c0343671ac6" />
+<img width="2560" height="1440" alt="Full_1" src="https://github.com/user-attachments/assets/4f3e98a1-e069-4d08-a893-965114f44381" />
+<img width="945" height="612" alt="_8" src="https://github.com/user-attachments/assets/ef07b719-1092-4bad-b77d-fe5054c6a4c5" />
+<img width="934" height="609" alt="_7" src="https://github.com/user-attachments/assets/0235b12f-e40e-4875-9270-75fd422d981f" />
+<img width="940" height="615" alt="_6" src="https://github.com/user-attachments/assets/4dbe3b7c-ba1c-4f56-99e1-1ae9203438ba" />
+<img width="933" height="611" alt="_5" src="https://github.com/user-attachments/assets/ad0ca483-6e6a-41c7-a0c6-57046a22fbe6" />
+<img width="932" height="610" alt="_4" src="https://github.com/user-attachments/assets/8fdc6f69-f334-4502-9fc5-8ba3ee2698ab" />
+<img width="956" height="618" alt="_3" src="https://github.com/user-attachments/assets/96e7310f-3623-44fd-9649-b7203cf860fb" />
+<img width="941" height="626" alt="_2" src="https://github.com/user-attachments/assets/d879b134-36ff-428f-bb00-90d2285c5e57" />
+<img width="1199" height="654" alt="_1" src="https://github.com/user-attachments/assets/1e84eb9a-febc-4e8b-9161-754876a9d4f5" />
+<img width="2560" height="1440" alt="Full_2" src="https://github.com/user-attachments/assets/f9a076e5-e6e3-4d32-bd09-b4f7fa0292d9" />
 
 <div align="center">
 
