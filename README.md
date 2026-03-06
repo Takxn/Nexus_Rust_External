@@ -8,7 +8,7 @@
 
 # NEXUS+
 
-### External Rust Overlay v1.2.2
+### External Rust Overlay v1.2.2 Updating 6.3.26
 
 <br>
 
